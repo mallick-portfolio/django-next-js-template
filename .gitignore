@@ -1,0 +1,4 @@
+# Ignore the virtual environment directory in the backend folder
+/backend/venv/
+
+/frontend/node_modules
